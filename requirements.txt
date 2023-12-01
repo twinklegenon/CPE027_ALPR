@@ -1,3 +1,4 @@
 streamlit
 tensorflow
 opencv-python-headless
+matplotlib.pyplot
